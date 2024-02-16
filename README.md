@@ -48,3 +48,5 @@ To run the tests, `cd` into the directory where `manage.py` is:
 ![Screenshot 5](screenshots/5.png)
 ![Screenshot 6](screenshots/6.png)
 ![Screenshot 7](screenshots/7.png)
+![1](https://github.com/Kunal-Idhate/Product_management_django/assets/104858057/310fb496-ef72-4b92-b5db-233ab3ea32aa)
+
