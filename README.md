@@ -39,3 +39,7 @@ To run the tests, `cd` into the directory where `manage.py` is:
 ```sh
 (env)$ python manage.py test gc_app
 ```
+## Screenshots
+
+![Screenshot 1](screenshots/1.png)
+![Screenshot 2](screenshots/2.png)
