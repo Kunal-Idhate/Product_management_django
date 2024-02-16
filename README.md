@@ -5,8 +5,8 @@
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone https://github.com/gocardless/sample-django-app.git
-$ cd sample-django-app
+$ git clone https://github.com/Kunal-Idhate/Product_management_django.git
+$ cd Product_management_django
 ```
 
 Create a virtual environment to install dependencies in and activate it:
