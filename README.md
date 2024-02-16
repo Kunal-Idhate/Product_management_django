@@ -1,4 +1,4 @@
-# GoCardless sample application
+# Product Managemenet App
 
 ## Setup
 
